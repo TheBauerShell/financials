@@ -1,0 +1,24 @@
+{
+  "name": "go-webapp",
+  "version": "1.0.0",
+  "description": "Eine Webanwendung zur Verwaltung von Projektkosten für IT-Dienstleistungen.",
+  "author": "Ihr Name",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.0",
+    "axios": "^0.21.1",
+    "chart.js": "^3.5.1",
+    "vue-chartjs": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0",
+    "@vue/compiler-sfc": "^3.0.0"
+  }
+}

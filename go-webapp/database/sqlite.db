@@ -1,0 +1,3 @@
+Die Datei /go-webapp/go-webapp/database/sqlite.db ist eine SQLite-Datenbankdatei und wird in der Regel nicht manuell erstellt oder bearbeitet. Sie wird durch die Anwendung zur Laufzeit generiert, wenn die Datenbankverbindung hergestellt wird und die erforderlichen Tabellen erstellt werden. Daher bleibt diese Datei absichtlich leer.
+
+# Diese Datei ist absichtlich leer.
